@@ -1,0 +1,35 @@
+*{
+    margin: 1%;
+    padding: 0;
+}
+
+html,body{
+background-image:url(../presentación/imag/venta.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+.variedad{
+text-align: center;
+color: navy;
+}
+
+.jojo{
+color: blue;
+
+}
+
+.contenido{
+    text-align: center;
+}
+.pie{
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    
+}
+.pie a{
+
+    color: white;
+}

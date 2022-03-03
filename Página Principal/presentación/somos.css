@@ -1,0 +1,43 @@
+*{
+    margin: 1%;
+    padding: 0;
+}
+html,body{
+background-image: url(../presentación/imag/fondo1.jpg) ;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+.manga{
+text-align: center;
+}
+.historia{
+color: blue;
+}
+.contexto{
+     text-align: center;
+     color: midnightblue;
+}
+img{
+    width: 25%;
+}
+.autores{
+  color: darkred;
+}
+
+.trabajo{
+    text-align: center;
+    color: aquamarine;
+}
+.pie{
+    text-align: center;
+    background-color: black;
+    margin: 1%;
+    
+}
+.pie a{
+
+    color: white;
+}
+

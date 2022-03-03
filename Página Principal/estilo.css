@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    background-image: url(../image/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img{
+    width: 10rem;
+}
+.head{
+    text-align: center;
+    background-color: inherit;
+    width: 40%;
+margin: auto;
+}
+.main-container{
+    margin: 0;
+    padding: 0;
+    color: ghostwhite;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    height: 20%;
+    font-style: italic;
+    
+}
+.main-container a{
+    color:khaki;
+    font-family: Arial; 
+    
+}
+.main-container td{
+    width: 40%;
+    height: 60%;
+   
+}
+.main-container tr{
+    height: 60%;
+    width: 100%;
+}

@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+html,body{
+    background-image: url(../presentación/imag/hacer.jfif) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+.pie{
+    text-align: center;
+    background-color: black;
+    margin: 1%;
+    
+}
+.pie a{
+
+    color: white;
+}
+
+.video{
+text-align: center;
+ color: azure;
+}

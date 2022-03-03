@@ -1,0 +1,64 @@
+*{
+
+  margin: 0;
+  padding: 0;  
+}
+
+html,body{
+    background-color: cornflowerblue ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    }
+    
+
+    .espera{
+        text-align: left;
+        color: brown;
+    }
+    .trabajo{
+        text-align: center;
+    }
+
+    .contenido{
+        text-align: center;
+        color: firebrick;
+
+    }
+    .meta{
+        text-align: left;
+    }
+
+    .union{
+        text-align: left;
+    }
+    
+  
+
+ 
+.pie{
+    text-align: center;
+    background-color: black;
+    margin: 1%;
+    
+}
+.pie a{
+
+    color: white;
+}
+ .novela a{
+     color: aliceblue;
+
+ }
+
+ .novela{
+     text-align: center;
+ }
+ .contacto{
+     text-align: center;
+ }
+
+ .recepsionista{
+     text-align: center;
+ }

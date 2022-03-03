@@ -1,0 +1,48 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+html,body{
+    background-image: url(../presentación/imag/oficina.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+    
+.main-container{
+    padding:0;
+    color: darksalmon;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    height: 60%;
+    font-style: italic;
+    
+}
+.main-container td{
+    width: 40%;
+    height: 60%;
+   
+}
+.main-container tr{
+    height: 50%;
+    width: 50%;
+}
+
+.contenedor{
+    text-align: center;
+}
+.pie{
+    text-align: center;
+    background-color: black;
+    margin: 1%;
+    
+}
+.pie a{
+
+    color: white;
+}
+
+.numero{
+    text-align: center;
+}
